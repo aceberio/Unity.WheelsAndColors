@@ -1,1 +1,14 @@
 # Unity.WheelsAndColors
+- Test https://aceberio.github.io/Unity.WheelsAndColors/
+- 2D.
+- Sprites.
+- Colliders.
+- Rigid bodies.
+- Prefabs.
+- Scripts.
+- Component hierarchy.
+- Movement.
+- Canvas.
+- Scenes.
+- Follow player with main camera.
+- Publish WebGL and host in GitHub Pages.
